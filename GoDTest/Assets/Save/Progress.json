@@ -1,0 +1,189 @@
+{
+  "InventoryData": {
+    "Money": 0,
+    "Size": 30,
+    "Items": [
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 28,
+        "ItemData": 1,
+        "IsLocked": false,
+        "IsEmpty": false
+      },
+      {
+        "Count": 12,
+        "ItemData": 2,
+        "IsLocked": false,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": null,
+        "IsLocked": false,
+        "IsEmpty": true
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      },
+      {
+        "Count": 0,
+        "ItemData": 0,
+        "IsLocked": true,
+        "IsEmpty": false
+      }
+    ],
+    "Weight": 0.4
+  }
+}
